@@ -1,0 +1,1 @@
+利用Pootle、serge、i18n搭建自己的翻译服务
